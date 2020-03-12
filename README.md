@@ -59,6 +59,15 @@
   # pip3 install --upgrade pip
   ```
   
+  ### 7.Refresh system source:
+  ```
+  # source ~/.bashrc
+  ```
+  
+  ### 8.Check:
+  ```
+  # Python3 -V
+  ```
   
   ## Uninstall Python:
   
