@@ -58,3 +58,16 @@
   ```
   # pip3 install --upgrade pip
   ```
+  
+  
+  ## Uninstall Python:
+  
+  ### 1.Use the commands below:
+  ```
+  # sudo apt-get remove python3
+  # sudo apt-get update
+  ```
+  
+  ### 2.Clean remains:
+  use `whereis python` `whereis python3` to find all the remianing files, and remove all of them.
+  
